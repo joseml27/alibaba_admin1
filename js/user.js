@@ -1,6 +1,6 @@
-////////Base de datos con toda la información del usuario comprador, contiene datos del user id, el usuario, nombre comleto, dirección, correo electrónico y número de teléfono.
+//Base de datos con toda la información del usuario comprador, contiene datos del user id, el usuario, nombre comleto, dirección, correo electrónico y número de teléfono.
 
-let user = [
+export let user = [
     [100,	'anna0',	'white00',	'Anna Addison',	    '1325 Candy Rd, San Francisco, CA 96123',	'anna.addison@yahoo.com',	3841019535],
     [101,	'carol1',	'orange01',	'Carol Campbell',	'1931 Brown St, Gainesville, FL 85321',	    'carol.campbell@aol.com', 	2548952651],
     [102,	'julia2',	'yellow02',	'Julia Jones',	    '1622 Seaside St, Seattle, WA 32569',	    'jolie.jones@msn.com',	    3651469235],

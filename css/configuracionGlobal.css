@@ -8,3 +8,11 @@ html{
     font-size: 10px;
     font-family: monospace;
 }
+:root{
+    --fondo: #F5F4F4;
+    --gris:  #AFAAAC;
+    --Celeste: #B1C6E9;
+    --Grisoscuro: #60738F;
+    --Azul: #1030B7;
+
+}
